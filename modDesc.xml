@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+    <author>scfmod</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>AdvancedSettings</en>
+    </title>
+    <description>
+        <en><![CDATA[Opens up advanced game settings ingame by pressing F10]]></en>
+    </description>
+    <iconFilename>store.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="advancedSettings.lua" />
+    </extraSourceFiles>
+</modDesc>
